@@ -1,5 +1,57 @@
 [
- 	{
+ 	
+	{
+		"name": "Nebula Yellow",
+		"author": "Sanket Naik",
+		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/nebula-yellow.png",
+		"dimensions": "1440x2160",
+		"copyright": "Sanket Naik",
+		"collections": "Minimal",
+		"downloadable": false
+	},
+	
+	{
+		"name": "Nebula Purple",
+		"author": "Sanket Naik",
+		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/nebula-purple.png",
+		"dimensions": "1440x2160",
+		"copyright": "Sanket Naik",
+		"collections": "Minimal",
+		"downloadable": false
+	},
+	
+	{
+		"name": "Nebula Pink",
+		"author": "Sanket Naik",
+		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/nebula-pink.png",
+		"dimensions": "1440x2160",
+		"copyright": "Sanket Naik",
+		"collections": "Minimal",
+		"downloadable": false
+	},
+	
+	{
+		"name": "Nebula Green",
+		"author": "Sanket Naik",
+		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/nebula-green.png",
+		"dimensions": "1440x2160",
+		"copyright": "Sanket Naik",
+		"collections": "Minimal",
+		"downloadable": false
+	},
+	
+	{
+		"name": "Nebula Blue",
+		"author": "Sanket Naik",
+		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/nebula-blue.png",
+		"dimensions": "1440x2160",
+		"copyright": "Sanket Naik",
+		"collections": "Minimal",
+		"downloadable": false
+	},
+	
+
+       {
 		"name": "Abstract 1",
 		"author": "Sanket Naik",
 		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/circle-maze-1.png",
