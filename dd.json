@@ -1,6 +1,24 @@
 [
 
 {
+		"name": "Cherry Blossom",
+		"author": "Sanket Naik",
+		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/Cherry-blossom.png",
+		"dimensions": "1440x2160",
+		"copyright": "Sanket Naik",
+		"collections": "Nature",
+		"downloadable": false
+	},	
+{
+		"name": "Koi Fish",
+		"author": "Sanket Naik",
+		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/koi-fish.png",
+		"dimensions": "1440x2160",
+		"copyright": "Sanket Naik",
+		"collections": "Minimal",
+		"downloadable": false
+	},	
+{
 		"name": "Abstract 2",
 		"author": "Sanket Naik",
 		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/abstract-2.png",
