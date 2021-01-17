@@ -1,5 +1,33 @@
 [
 
+	{
+		"name": "Red Electric",
+		"author": "Sanket Naik",
+		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/Red-electric.png",
+		"dimensions": "1440x2160",
+		"copyright": "Sanket Naik",
+		"collections": "Minimal",
+		"downloadable": false
+	},
+	{
+		"name": "Juggernaut Dota 2",
+		"author": "Sanket Naik",
+		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/juggernaut%20dota%202.png",
+		"dimensions": "1440x2160",
+		"copyright": "Sanket Naik",
+		"collections": "Games",
+		"downloadable": false
+	},
+	{
+		"name": "Dota 2",
+		"author": "Sanket Naik",
+		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/dota%202.png",
+		"dimensions": "1440x2160",
+		"copyright": "Sanket Naik",
+		"collections": "Games",
+		"downloadable": false
+	},
+	
 {
 		"name": "Cherry Blossom",
 		"author": "Sanket Naik",
