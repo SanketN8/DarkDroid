@@ -1,5 +1,58 @@
 [
-
+	{
+		"name": "Lava Purple",
+		"author": "Sanket Naik",
+		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/lava%20purple.png",
+		"dimensions": "2160x3840",
+		"copyright": "Sanket Naik",
+		"collections": "Abstract",
+		"downloadable": false
+	},
+	{
+		"name": "Lava Blue",
+		"author": "Sanket Naik",
+		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/lava%20blue.png",
+		"dimensions": "2160x3840",
+		"copyright": "Sanket Naik",
+		"collections": "Abstract",
+		"downloadable": false
+	},
+	{
+		"name": "Never Settle Camo",
+		"author": "Sanket Naik",
+		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/oneplus%20camo.png",
+		"dimensions": "2160x3840",
+		"copyright": "Sanket Naik",
+		"collections": "Minimal",
+		"downloadable": false
+	},
+	{
+		"name": "Never Settle Camo Grey",
+		"author": "Sanket Naik",
+		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/oneplus%20camo%20grey.png",
+		"dimensions": "2160x3840",
+		"copyright": "Sanket Naik",
+		"collections": "Minimal",
+		"downloadable": false
+	},
+	{
+		"name": "Abstract Rectangle",
+		"author": "Sanket Naik",
+		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/Abstract%20rect.jpg",
+		"dimensions": "3000x3000",
+		"copyright": "Sanket Naik",
+		"collections": "Abstract",
+		"downloadable": false
+	},
+	{
+		"name": "Abstract Circle",
+		"author": "Sanket Naik",
+		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/Circle%20Abstract.jpg",
+		"dimensions": "3000x3000",
+		"copyright": "Sanket Naik",
+		"collections": "Abstract",
+		"downloadable": false
+	},
 	{
 		"name": "Red Electric",
 		"author": "Sanket Naik",
