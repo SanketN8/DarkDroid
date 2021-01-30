@@ -1,5 +1,32 @@
 [
 	{
+		"name": "Red Stripes",
+		"author": "Sanket Naik",
+		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/red-stripes.png",
+		"dimensions": "2160x3840",
+		"copyright": "Sanket Naik",
+		"collections": "Minimal",
+		"downloadable": false
+	},
+	{
+		"name": "Green Stripes",
+		"author": "Sanket Naik",
+		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/green-stripes.png",
+		"dimensions": "2160x3840",
+		"copyright": "Sanket Naik",
+		"collections": "Minimal",
+		"downloadable": false
+	},
+	{
+		"name": "Black Material 14",
+		"author": "Sanket Naik",
+		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/black-material-14.png",
+		"dimensions": "2160x3840",
+		"copyright": "Sanket Naik",
+		"collections": "Material",
+		"downloadable": false
+	},
+	{
 		"name": "Abstract 10",
 		"author": "Sanket Naik",
 		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/abstract-10.png",
