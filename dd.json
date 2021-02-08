@@ -733,16 +733,6 @@
 		"downloadable": false
 	},
    
-{
-		"name": "Among Us",
-		"author": "Sanket Naik",
-		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/among%20us.png",
-		"dimensions": "2160x3840",
-		"copyright": "Sanket Naik",
-		"collections": "Games",
-		"downloadable": false
-	},
-  
  {
 		"name": "Dog Island",
 		"author": "Sanket Naik",
@@ -793,17 +783,7 @@
 		"downloadable": false
 	},
   
-{
-		"name": "Spiral",
-		"author": "Sanket Naik",
-		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/spiral.png",
-		"dimensions": "2160x3840",
-		"copyright": "Sanket Naik",
-		"collections": "Minimal",
-		"downloadable": false
-	},
-  
-{
+  {
 		"name": "Pot",
 		"author": "Sanket Naik",
 		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/pot.png",
