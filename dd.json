@@ -1,5 +1,41 @@
 [
 	{
+		"name": "Material 1",
+		"author": "Sanket Naik",
+		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/material-1.png",
+		"dimensions": "2160x3840",
+		"copyright": "Sanket Naik",
+		"collections": "Material",
+		"downloadable": false
+	},
+	{
+		"name": "Abstract Pattern 3",
+		"author": "Sanket Naik",
+		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/abstract-pattern-3.png",
+		"dimensions": "2160x3840",
+		"copyright": "Sanket Naik",
+		"collections": "Abstract",
+		"downloadable": false
+	},
+	{
+		"name": "Abstract Pattern 2",
+		"author": "Sanket Naik",
+		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/abstract-pattern-2.png",
+		"dimensions": "2160x3840",
+		"copyright": "Sanket Naik",
+		"collections": "Abstract",
+		"downloadable": false
+	},
+	{
+		"name": "Abstract Pattern 1",
+		"author": "Sanket Naik",
+		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/abstract-pattern-1.png",
+		"dimensions": "2160x3840",
+		"copyright": "Sanket Naik",
+		"collections": "Abstract",
+		"downloadable": false
+	},
+	{
 		"name": "Liquid 4",
 		"author": "Sanket Naik",
 		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/liquid%204.png",
