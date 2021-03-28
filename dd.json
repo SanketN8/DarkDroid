@@ -1,5 +1,23 @@
 [
 	{
+		"name": "Paint 2",
+		"author": "Sanket Naik",
+		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/paint-2.png",
+		"dimensions": "2160x3840",
+		"copyright": "Sanket Naik",
+		"collections": "Paint",
+		"downloadable": false
+	},
+	{
+		"name": "Paint 1",
+		"author": "Sanket Naik",
+		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/paint-1.png",
+		"dimensions": "2160x3840",
+		"copyright": "Sanket Naik",
+		"collections": "Paint",
+		"downloadable": false
+	},
+	{
 		"name": "Planet Abstract 2",
 		"author": "Sanket Naik",
 		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/planet%20abstract%202.png",
