@@ -1,6 +1,35 @@
 [
 	
+	
+	{
+		"name": "Cat on Wall 3",
+		"author": "Sanket Naik",
+		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/Cat-on-wall-3.png",
+		"dimensions": "2160x3840",
+		"copyright": "Sanket Naik",
+		"collections": "Minimal",
+		"downloadable": false
+	},
 
+	{
+		"name": "Cat on Wall 2",
+		"author": "Sanket Naik",
+		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/Cat-on-wall-2.png",
+		"dimensions": "2160x3840",
+		"copyright": "Sanket Naik",
+		"collections": "Minimal",
+		"downloadable": false
+	},
+	
+	{
+		"name": "Cat on Wall 1",
+		"author": "Sanket Naik",
+		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/Cat-on-wall-1.png",
+		"dimensions": "2160x3840",
+		"copyright": "Sanket Naik",
+		"collections": "Minimal",
+		"downloadable": false
+	},
 
 	{
 		"name": "Ganesha 2",
