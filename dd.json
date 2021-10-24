@@ -1,10 +1,9 @@
 [
 
-	
 	{
-		"name": "Halloween Pumpkin",
+		"name": "Halloween Hand 3",
 		"author": "Sanket Naik",
-		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/Halloween-Pumpkin.png",
+		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/Halloween-Hand-3.png",
 		"dimensions": "2160x3840",
 		"copyright": "Sanket Naik",
 		"collections": "Minimal",
@@ -12,9 +11,29 @@
 	},
 	
 	{
-		"name": "Halloween Hand",
+		"name": "Halloween Hand 2",
 		"author": "Sanket Naik",
-		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/Halloween-Hand.png",
+		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/Halloween-Hand-2.png",
+		"dimensions": "2160x3840",
+		"copyright": "Sanket Naik",
+		"collections": "Minimal",
+		"downloadable": false
+	},
+	
+	{
+		"name": "Halloween Hand 1",
+		"author": "Sanket Naik",
+		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/Halloween-Hand-1.png",
+		"dimensions": "2160x3840",
+		"copyright": "Sanket Naik",
+		"collections": "Minimal",
+		"downloadable": false
+	},
+	
+	{
+		"name": "Halloween Pumpkin",
+		"author": "Sanket Naik",
+		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/Halloween-Pumpkin.png",
 		"dimensions": "2160x3840",
 		"copyright": "Sanket Naik",
 		"collections": "Minimal",
