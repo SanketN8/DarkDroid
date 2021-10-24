@@ -2,6 +2,26 @@
 
 	
 	{
+		"name": "Halloween Pumpkin",
+		"author": "Sanket Naik",
+		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/Halloween-Pumpkin.png",
+		"dimensions": "2160x3840",
+		"copyright": "Sanket Naik",
+		"collections": "Minimal",
+		"downloadable": false
+	},
+	
+	{
+		"name": "Halloween Hand",
+		"author": "Sanket Naik",
+		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/Halloween-Hand.png",
+		"dimensions": "2160x3840",
+		"copyright": "Sanket Naik",
+		"collections": "Minimal",
+		"downloadable": false
+	},
+	
+	{
 		"name": "Squid Game 3",
 		"author": "Sanket Naik",
 		"url": "https://raw.githubusercontent.com/SanketN8/DarkDroid/Wallpapers/Squid-Game-3.png",
