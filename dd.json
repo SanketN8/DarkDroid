@@ -1,4 +1,34 @@
 [
+	
+	{
+		"name": "Spiderman 3",
+		"author": "Sanket Naik",
+		"url": "https://github.com/SanketN8/DarkDroid/blob/Wallpapers/Spiderman-3.png?raw=true",
+		"dimensions": "2160x3840",
+		"copyright": "Sanket Naik",
+		"collections": "Minimal",
+		"downloadable": false
+	},
+	
+	{
+		"name": "Spiderman 2",
+		"author": "Sanket Naik",
+		"url": "https://github.com/SanketN8/DarkDroid/blob/Wallpapers/Spiderman-2.png?raw=true",
+		"dimensions": "2160x3840",
+		"copyright": "Sanket Naik",
+		"collections": "Minimal",
+		"downloadable": false
+	},
+	
+	{
+		"name": "Spiderman 1",
+		"author": "Sanket Naik",
+		"url": "https://github.com/SanketN8/DarkDroid/blob/Wallpapers/Spiderman-1.png?raw=true",
+		"dimensions": "2160x3840",
+		"copyright": "Sanket Naik",
+		"collections": "Minimal",
+		"downloadable": false
+	},
 
 	{
 		"name": "Shiva Cliff 3",
