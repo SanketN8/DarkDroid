@@ -1,5 +1,25 @@
 [
 	
+	{
+		"name": "Paint 10",
+		"author": "Sanket Naik",
+		"url": "https://github.com/SanketN8/DarkDroid/blob/Wallpapers/paint-10.png?raw=true",
+		"dimensions": "2160x3840",
+		"copyright": "Sanket Naik",
+		"collections": "Paint",
+		"downloadable": false
+	},
+	
+	{
+		"name": "Paint 9",
+		"author": "Sanket Naik",
+		"url": "https://github.com/SanketN8/DarkDroid/blob/Wallpapers/paint-9.png?raw=true",
+		"dimensions": "2160x3840",
+		"copyright": "Sanket Naik",
+		"collections": "Paint",
+		"downloadable": false
+	},
+	
 	
 	{
 		"name": "Triangles 2",
